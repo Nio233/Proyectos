@@ -1,0 +1,340 @@
+@media screen and (max-width: 480px) {  
+}
+
+@media screen and (max-width: 700px) {
+  
+}
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+
+.contenedor{
+  width: 100%;
+  max-width: 1000px;
+  margin: auto;
+}
+
+/*CABECERA*/
+
+header{
+  width: 100%;
+  height: 75px;
+  background-color: #AF9CE9;
+}
+
+
+.menu{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  justify-content: space-between;
+  max-width: 500px;
+  margin: auto;
+
+  /*menu*/
+background-color: #69E4FF;
+color: white;
+border-radius: 15px;
+cursor: pointer;
+padding: 10px;
+margin-top: 0px;
+
+}
+
+.menu a{
+  text-decoration: none;
+  color: black;
+  font-size: 15px;
+}
+
+.menu a:hover{
+  color: blue;
+  text-decoration: none;
+}
+/*FIN DE CABECERA*/
+
+/*BANNER PRINCIPAL*/
+
+.banner{
+  width: 100%;
+  height: 630px;
+  background-image: url(../imagenes/Banner.png);
+  background-position: center;
+  background-size: cover;
+}
+
+.banner > div{
+  width: 100%;
+  height: 100%;
+  background-color: rgba(209, 219, 189, 0.5);
+}
+
+.llamada-accion{
+  text-align: center;
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+
+  height: 100%;
+}
+
+.llamada-accion p{
+  font-size: 18px;
+  color: white;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+.llamada-accion h2{
+  font-size: 42px;
+  color: black;
+  width: 100%;
+  padding: 45px 0;
+  background-color: rgba(255, 255, 255, 0.4);
+  max-width: 470px;
+}
+
+.llamada-accion a{
+  font-size: 18px;
+  text-decoration: none;
+  color: white;
+  padding: 10px 50px;
+  background-color: rgba(0,0,0,0.47);
+  margin-top: 35px;
+}
+/*FIN DE BANNER PRINCIPAL*/
+
+/*SECCION DE BIENVENIDA*/
+
+.bienvenida{
+  width: 100%;
+  background-color: #AF9CE9;
+  margin-top: 2px;
+  color: #ffffff;
+  text-align: center;
+}
+
+.bienvenida h3{
+  font-size: 16px;
+  padding-top: 40px;
+  padding-bottom: 35px;
+}
+
+.bienvenida p{
+  font-size: 16px;
+  padding-bottom: 35px;
+  line-height: 1.7em;
+  max-width: 370px;
+  margin: 0 auto;
+}
+
+
+/*FIN DE SECCION DE BIENVENIDA*/
+
+.nosotros > .contenedor{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+
+.foto-propia{
+  width: 100%;
+  max-width: 300px;
+}
+
+.foto-propia img{
+  width: 100%;
+}
+
+.conocenos{
+  text-align: center;
+  padding: 15px 0px;
+  max-width: 570px;
+}
+
+.conocenos p:nth-child(1){
+  font-size: 14px;
+  color:#3c1c22;
+  padding-bottom: 20px;
+  border-bottom:1px solid #a2a2a2;
+}
+
+.conocenos h3{
+  padding-top: 20px;
+  padding-bottom: 30px;
+  color: #193441;
+  font-size: 18px;
+}
+
+.conocenos p:nth-child(3){
+  font-size: 14px;
+  color:#3c1c22;
+  padding-bottom: 25px;
+}
+
+.conocenos p:nth-child(4){
+  font-size: 14px;
+  color:#646464;
+  padding-bottom: 20px;
+}
+
+div.conocenos a{
+  font-size: 15px;
+  color: #193441;
+}
+
+  .nosotros{
+    padding-top: 80px;
+  }
+  .foto-propia{
+    margin-right: 30px;
+  }
+  .conocenos{
+    padding-left: 30px;
+    text-align: left;
+  }  
+  .conocenos h3 {
+  margin:auto;
+  margin-top: 85px;
+  color:#153441; 
+  }
+
+.Formulario{
+width: 380px;
+background: #AF9CE9;
+padding: 30px;
+margin: auto;
+margin-top: 0px;
+border-radius: 4px;
+font-family: 'calibri';
+color: BLACK;
+}
+.Formulario h3 {
+   font-size: 22px;
+  margin-bottom: 20px;
+}
+.control{
+ width: 100%;
+ background: #24303c;
+ padding: 10px;
+ border-radius: 4px;
+ margin-bottom: 16px;
+ border: 1px solid #1f53c5;
+ font-family: 'calibri';
+ font-size: 18px;
+ color:white;
+
+}
+.Formulario .boton {
+  width: 100%;
+  background: #1f53c5;
+  border: none;
+  padding: 12px;
+  color: white;
+  margin: 16px 0;
+  font-size: 16px;
+}
+
+/*FIN DE SECCION DE SOBRE NOSOTROS*/
+
+/*PIE DE PÁGINA*/
+
+.top-footer{
+  margin-top: 50px;
+  background-color:#193440;
+  height:25px;
+}
+
+.center-footer{
+  background-color: #193449;
+}
+
+.center-footer .contenedor{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.center-footer .widget{
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 35px;
+  color: white;
+
+  max-width: 270px;
+  margin: 0 auto;
+}
+
+.center-footer .widget h4{
+  padding-bottom: 35px;
+  font-size: 18px;
+}
+
+.center-footer .widget p{
+ font-size: 14px; 
+}
+
+.bottom-footer{
+  background-color:#193440;
+  height:25px;
+}
+
+.bottom-footer p{
+  color:#7a7a7a;
+  font-size: 12px;
+  text-align: center;
+}
+
+/*FIN DE PIE DE PÁGINA*/
+
+/*INICIO DE PAGINA DE AFICIONES
+
+body h1 {
+  font-family: 'Open Sans', sans-serif;
+  width: 100%;
+  background-color: #ffffff;
+  margin-top: 10px;
+  color: #193441;
+  text-align: center;
+}
+
+.menu2 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  justify-content: space-between;
+  max-width: 200px;
+  margin: auto;
+}
+
+.menu2 a { 
+background-color: #153441;
+color: white;
+border-radius: 10px;
+cursor: pointer;
+padding:12px;
+margin-top:4px;
+}
+
+
+.menu2 a {
+  text-decoration: none;
+  color: white;
+  font-size: 15px;
+
+  color:#153441;
+}
+*/
+  

@@ -1,0 +1,151 @@
+1
+00:00:00,420 --> 00:00:06,350
+Hola bienvenido a un nuevo proyecto estaremos creando este sitio web para un diseñador freelance de
+
+2
+00:00:06,360 --> 00:00:07,830
+diseño y desarrollo web Pippen.
+
+3
+00:00:07,830 --> 00:00:11,300
+Vemos que tenemos también diseño programación y comercio.
+
+4
+00:00:11,440 --> 00:00:15,210
+Será un diseño sencillo y veremos que congrí es mucho más sencillo.
+
+5
+00:00:15,210 --> 00:00:19,470
+Tenemos esta parte del juego esta imagen que estaremos viendo como central verticalmente para poner
+
+6
+00:00:19,470 --> 00:00:21,520
+en práctica lo que hemos aprendido.
+
+7
+00:00:21,600 --> 00:00:27,870
+Tenemos estos tres servicios diseño web programación web e-commerce con nuestros iconos de fondos son
+
+8
+00:00:28,500 --> 00:00:35,640
+una breve descripción y después tenemos el portafolio estaremos creando este diseño tipo más Omri como
+
+9
+00:00:35,640 --> 00:00:40,230
+hemos visto anteriormente será 100 por ciento responsive si lo hacemos más pequeño se va a poner todo
+
+10
+00:00:40,920 --> 00:00:43,440
+en una columna algo más estos.
+
+11
+00:00:43,590 --> 00:00:51,030
+Este portafolio va a leerse de un archivo Jayson no tiene nada que ver con Grit ni nada de eso pero
+
+12
+00:00:51,360 --> 00:00:55,140
+se me hizo buena idea crear un curso más completo.
+
+13
+00:00:55,140 --> 00:01:01,740
+Finalmente en el futuro tendremos el contacto y un poco sobre este desarrollador Serán diseños veremos
+
+14
+00:01:01,740 --> 00:01:08,130
+lo fácil que es crearlo con grids de nuevo en tus archivos del curso vas a encontrar la Freelancer y
+
+15
+00:01:08,130 --> 00:01:14,610
+yo Finn y freelancer yo en un inicio yo ya tengo abierto el inicio en mi editor también ya lo tengo
+
+16
+00:01:14,610 --> 00:01:21,010
+corriendo con Leitte Server y ya tiene algunos archivos por ejemplo ya tiene cargado Photoshop una hoja
+
+17
+00:01:21,010 --> 00:01:28,510
+de estilos una carpeta de imágenes un archivo JavaScript que está vacío es el script que mostré de Jayson
+
+18
+00:01:28,510 --> 00:01:30,940
+va a imprimirse utilizando JavaScript.
+
+19
+00:01:31,230 --> 00:01:37,810
+El índex tiene muy poco contenido casi nada y tenemos enlaces a normalidades a fondos con fuentes de
+
+20
+00:01:37,810 --> 00:01:46,150
+Google alfonsinista el CSS así como un app JS Si abrimos la hoja de estilos tenemos pocos estilos algunas
+
+21
+00:01:46,150 --> 00:01:51,520
+variables como vimos en el capítulo anterior tenemos una variable para la fuente principal o para las
+
+22
+00:01:51,520 --> 00:01:57,880
+fuentes secundarias el color primario el color secundario y un color claro que es un color blanco en
+
+23
+00:01:57,890 --> 00:02:04,040
+el html estoy utilizando unboxing de Border box y en el body lo estoy declarando una fuente principal
+
+24
+00:02:04,040 --> 00:02:09,990
+aquí podríamos cambiarlo fácilmente por una fuente secundaria en caso de que sea necesario.
+
+25
+00:02:10,010 --> 00:02:15,260
+También le he definido un contenedor con un máximo de 1100 píxeles y un ancho de 90 por ciento y margen
+
+26
+00:02:15,590 --> 00:02:22,760
+cero auto para hacer las imágenes responsive tengo este Mac Suite 100 por ciento y tengo un H1 H2 y
+
+27
+00:02:22,760 --> 00:02:25,150
+H3 con distintos tamaños.
+
+28
+00:02:25,220 --> 00:02:30,610
+Vamos a arrancar este proyecto Creando esta parte de arriba una imagen por lo tanto vamos a abrir el
+
+29
+00:02:30,810 --> 00:02:39,380
+MG el Index perdón y voy a colocar un chip con la frase de giro dentro voy a crear un contenedor y dentro
+
+30
+00:02:39,380 --> 00:02:41,590
+voy a crear otro que sea más contenido.
+
+31
+00:02:41,600 --> 00:02:48,110
+La idea de todo esto es crear Jiro colocamos la imagen el contenedor nos permite centrar un poco más
+
+32
+00:02:48,110 --> 00:02:55,040
+el texto pero también nos sirve como contenedor de GRID y finalmente el contenido después de poner un
+
+33
+00:02:55,050 --> 00:03:01,730
+H-1B que va a tener la clase de título para poderlo seleccionar con CSS y ponemos diseño y desarrollo
+
+34
+00:03:01,790 --> 00:03:09,520
+web después ponemos un párrafo con la clase de subtítulo para poderlo seleccionar nuevamente.
+
+35
+00:03:09,520 --> 00:03:11,110
+Diseño programación
+
+36
+00:03:14,510 --> 00:03:15,460
+y comercio
+
+37
+00:03:18,590 --> 00:03:23,680
+si guardamos cambios y abrimos nuestro proyecto vemos que nada más tenemos esto pero la parte de la
+
+38
+00:03:23,680 --> 00:03:29,090
+imagen es o será agregado por medio de CSS así que eso lo haremos en el próximo video.

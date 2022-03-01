@@ -1,0 +1,20 @@
+
+body{
+	background-color:#153441;
+}
+
+.container {
+	width: 550px;
+	background-color: #FF7B3B;
+	margin-right: auto;
+	border-radius: 2%;
+
+}
+
+.btn {
+  margin-top: 4%;
+}
+
+.form-group label{
+
+}

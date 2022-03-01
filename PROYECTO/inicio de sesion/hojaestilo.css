@@ -1,0 +1,74 @@
+
+body {
+  background-color: #153441;
+}
+.Formulario{
+width: 280px;
+background: #FF7B3B;
+padding: 30px;
+margin: auto;
+margin-top: 100px;
+border-radius: 50px;
+font-family: 'calibri';
+color:white;
+}
+.Formulario h2 {
+   font-size: 25px;
+  margin-bottom: 2px;
+}
+.control{
+ width: 94%;
+ background: #24303c;
+ padding: 12px;
+ border-radius: 30px;
+ margin-bottom: 2px;
+ border: 1px solid #1C9D1C;
+ font-family: 'calibri';
+ font-size: 17px;
+ color:white;
+
+}
+.Formulario .boton {
+  height: 45px;
+  border-radius: 30px;
+ margin-bottom: 2px;
+  width: 100%;
+  background: #1C9D1C;
+  border: none;
+  padding: 10px;
+  color: white;
+  margin: 15px 0px;
+  font-size: 17px;
+}
+ 
+.form-register p{
+  height: 5px;
+  text-align: center;
+}
+
+.form-register a {
+  color: white;
+  text-decoration:none;
+}
+
+.form-register .boton {
+  width: 100%;
+  background: #1C9D1C;
+  border: none;
+  padding: 12px;
+  margin: 16px 0;
+  font-size: 16px;
+  
+}
+
+
+
+
+
+
+ 
+
+
+ 
+
+
